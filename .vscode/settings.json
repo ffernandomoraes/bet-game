@@ -1,0 +1,16 @@
+{
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.tmp": true,
+    "**/bin/**": true,
+    "**/obj/**": true,
+    "build": true,
+    "node_modules": true
+  },
+  "typescriptHero.imports.multiLineTrailingComma": false
+}

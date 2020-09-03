@@ -1,0 +1,22 @@
+-> Tela de boas vindas, com opções de: criar sala ou juntar-se a alguma sala
+
+  -> criar sala (/room/create):
+    - loga com a conta google
+    - insere os dados do jogo: nome da sala
+    - gera um link com o id da sala (/game/:id)
+    - envia o link pra outros jogadores
+    - aguarda os outros jogadores entrarem, com possibilidade de dar start
+
+  -> juntar-se a sala:
+    - adiciona o id da sala
+    - redireciona pro game (/game/:id)
+    - loga com a conta google
+    - espera dono da sala começar
+
+-> Em game:
+  - todos os jogadores começam com R$ 5.000,00
+  - jogo de roleta, jogadores apostam um valor R$, o jogo sorteia um número de 1 a 32
+  - se cair no número escolhido, o jogador ganha: (VALOR_APOSTADO * NUM_JOGADORES) + VALOR_APOSTADO
+  - se não cair no número escolhido, o jogador perde o que apostou
+  - ganha quem tiver mais dinheiro no final ou quem zerar por último
+  - o jogo só sorteia um número quando todos os jogadores da sala escolhem um número e um valor de aposta

@@ -1,0 +1,21 @@
+.welcome-page {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  .container {
+    width: 400px;
+    text-align: center;
+  }
+
+  .buttons {
+    margin-top: 25px;
+
+    button {
+      margin: 0 5px;
+    }
+  }
+}
