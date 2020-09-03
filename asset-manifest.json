@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bet-game/static/css/main.cc2e86d1.chunk.css",
-    "main.js": "/bet-game/static/js/main.e8a69803.chunk.js",
-    "main.js.map": "/bet-game/static/js/main.e8a69803.chunk.js.map",
-    "runtime-main.js": "/bet-game/static/js/runtime-main.ee70419c.js",
-    "runtime-main.js.map": "/bet-game/static/js/runtime-main.ee70419c.js.map",
-    "static/js/2.27574b61.chunk.js": "/bet-game/static/js/2.27574b61.chunk.js",
-    "static/js/2.27574b61.chunk.js.map": "/bet-game/static/js/2.27574b61.chunk.js.map",
-    "index.html": "/bet-game/index.html",
-    "precache-manifest.14323e8d75870eb84e17d9f465987fec.js": "/bet-game/precache-manifest.14323e8d75870eb84e17d9f465987fec.js",
-    "service-worker.js": "/bet-game/service-worker.js",
-    "static/css/main.cc2e86d1.chunk.css.map": "/bet-game/static/css/main.cc2e86d1.chunk.css.map",
-    "static/js/2.27574b61.chunk.js.LICENSE.txt": "/bet-game/static/js/2.27574b61.chunk.js.LICENSE.txt"
+    "main.css": "https://ffernandomoraes.github.io/bet-game/static/css/main.cc2e86d1.chunk.css",
+    "main.js": "https://ffernandomoraes.github.io/bet-game/static/js/main.ae4edde7.chunk.js",
+    "main.js.map": "https://ffernandomoraes.github.io/bet-game/static/js/main.ae4edde7.chunk.js.map",
+    "runtime-main.js": "https://ffernandomoraes.github.io/bet-game/static/js/runtime-main.a2213082.js",
+    "runtime-main.js.map": "https://ffernandomoraes.github.io/bet-game/static/js/runtime-main.a2213082.js.map",
+    "static/js/2.f36cf5e0.chunk.js": "https://ffernandomoraes.github.io/bet-game/static/js/2.f36cf5e0.chunk.js",
+    "static/js/2.f36cf5e0.chunk.js.map": "https://ffernandomoraes.github.io/bet-game/static/js/2.f36cf5e0.chunk.js.map",
+    "index.html": "https://ffernandomoraes.github.io/bet-game/index.html",
+    "precache-manifest.9399e967669d148c0f99cffe3bb14dd3.js": "https://ffernandomoraes.github.io/bet-game/precache-manifest.9399e967669d148c0f99cffe3bb14dd3.js",
+    "service-worker.js": "https://ffernandomoraes.github.io/bet-game/service-worker.js",
+    "static/css/main.cc2e86d1.chunk.css.map": "https://ffernandomoraes.github.io/bet-game/static/css/main.cc2e86d1.chunk.css.map",
+    "static/js/2.f36cf5e0.chunk.js.LICENSE.txt": "https://ffernandomoraes.github.io/bet-game/static/js/2.f36cf5e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee70419c.js",
-    "static/js/2.27574b61.chunk.js",
+    "static/js/runtime-main.a2213082.js",
+    "static/js/2.f36cf5e0.chunk.js",
     "static/css/main.cc2e86d1.chunk.css",
-    "static/js/main.e8a69803.chunk.js"
+    "static/js/main.ae4edde7.chunk.js"
   ]
 }
