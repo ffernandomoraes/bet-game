@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bet-game/static/css/main.cc2e86d1.chunk.css",
-    "main.js": "/bet-game/static/js/main.5286bc7d.chunk.js",
-    "main.js.map": "/bet-game/static/js/main.5286bc7d.chunk.js.map",
+    "main.js": "/bet-game/static/js/main.09bce797.chunk.js",
+    "main.js.map": "/bet-game/static/js/main.09bce797.chunk.js.map",
     "runtime-main.js": "/bet-game/static/js/runtime-main.ee70419c.js",
     "runtime-main.js.map": "/bet-game/static/js/runtime-main.ee70419c.js.map",
-    "static/js/2.27574b61.chunk.js": "/bet-game/static/js/2.27574b61.chunk.js",
-    "static/js/2.27574b61.chunk.js.map": "/bet-game/static/js/2.27574b61.chunk.js.map",
+    "static/js/2.f1a5e10e.chunk.js": "/bet-game/static/js/2.f1a5e10e.chunk.js",
+    "static/js/2.f1a5e10e.chunk.js.map": "/bet-game/static/js/2.f1a5e10e.chunk.js.map",
     "index.html": "/bet-game/index.html",
-    "precache-manifest.993f3e854c8b1e7b4d14abad8c19c2ea.js": "/bet-game/precache-manifest.993f3e854c8b1e7b4d14abad8c19c2ea.js",
+    "precache-manifest.f13042ce6229b0c18c1deff648d7f7ad.js": "/bet-game/precache-manifest.f13042ce6229b0c18c1deff648d7f7ad.js",
     "service-worker.js": "/bet-game/service-worker.js",
     "static/css/main.cc2e86d1.chunk.css.map": "/bet-game/static/css/main.cc2e86d1.chunk.css.map",
-    "static/js/2.27574b61.chunk.js.LICENSE.txt": "/bet-game/static/js/2.27574b61.chunk.js.LICENSE.txt"
+    "static/js/2.f1a5e10e.chunk.js.LICENSE.txt": "/bet-game/static/js/2.f1a5e10e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ee70419c.js",
-    "static/js/2.27574b61.chunk.js",
+    "static/js/2.f1a5e10e.chunk.js",
     "static/css/main.cc2e86d1.chunk.css",
-    "static/js/main.5286bc7d.chunk.js"
+    "static/js/main.09bce797.chunk.js"
   ]
 }
