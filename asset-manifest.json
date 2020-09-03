@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bet-game/static/css/main.cc2e86d1.chunk.css",
+    "main.js": "/bet-game/static/js/main.e8a69803.chunk.js",
+    "main.js.map": "/bet-game/static/js/main.e8a69803.chunk.js.map",
+    "runtime-main.js": "/bet-game/static/js/runtime-main.ee70419c.js",
+    "runtime-main.js.map": "/bet-game/static/js/runtime-main.ee70419c.js.map",
+    "static/js/2.27574b61.chunk.js": "/bet-game/static/js/2.27574b61.chunk.js",
+    "static/js/2.27574b61.chunk.js.map": "/bet-game/static/js/2.27574b61.chunk.js.map",
+    "index.html": "/bet-game/index.html",
+    "precache-manifest.14323e8d75870eb84e17d9f465987fec.js": "/bet-game/precache-manifest.14323e8d75870eb84e17d9f465987fec.js",
+    "service-worker.js": "/bet-game/service-worker.js",
+    "static/css/main.cc2e86d1.chunk.css.map": "/bet-game/static/css/main.cc2e86d1.chunk.css.map",
+    "static/js/2.27574b61.chunk.js.LICENSE.txt": "/bet-game/static/js/2.27574b61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee70419c.js",
+    "static/js/2.27574b61.chunk.js",
+    "static/css/main.cc2e86d1.chunk.css",
+    "static/js/main.e8a69803.chunk.js"
+  ]
+}
